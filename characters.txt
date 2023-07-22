@@ -1,2 +1,5 @@
 hare
 tortoise
+lion
+monkey
+elephant
